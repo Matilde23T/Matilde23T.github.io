@@ -48,7 +48,7 @@ body{
 }
 
 .navbar-brand{
-    font-size: 55px;
+    font-size: 50px;
     font-weight: 600;
     padding-left: 20px;
     color: whitesmoke;
@@ -61,7 +61,7 @@ body{
 }
 
 .navbar-nav .nav-link{
-    font-size: 37px;
+    font-size: 29px;
     font-weight: 600;
     color:whitesmoke;
     justify-content: right;
@@ -100,7 +100,7 @@ body{
 
 }
 .curriculum h1{
-    font-size: 80px;
+    font-size: 50px;
     font-family: "satisfy";
     font-weight: 600;
     color: whitesmoke;
@@ -115,7 +115,7 @@ body{
 
 
 .curriculum .indirizzi{
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 500;
     color: whitesmoke;
     float: right;
@@ -126,7 +126,7 @@ body{
 
 .curriculum .indirizzi h2{
     color: white;
-    font-size: 80px ;
+    font-size: 20px ;
     font-family: "satisfy";
     
 }
@@ -135,12 +135,12 @@ body{
     
     margin-top: 35px;
     color: white;
-    font-size: 22px;
+    font-size: 20px;
 }
 
 .curriculum h4{
     
-    font-size: 40px;
+    font-size: 32px;
     font-weight: 900;
     font-family: "satisfy";
     text-transform: lowercase;
@@ -156,7 +156,7 @@ body{
 }
 
 #footer-section p{
-    font-size: 14px;
+    font-size: 12px;
     padding-top: 10px;
     padding-right: 10px;
     color: white;

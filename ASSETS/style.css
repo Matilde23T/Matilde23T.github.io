@@ -13,7 +13,7 @@
 
     background-size: 400% 400%;
     width: 100%;
-    height:fit-content;
+    height:fit-content !important;
     animation: animate 15s ease infinite;
 }
 
@@ -49,7 +49,7 @@ body{
 }
 
 .navbar-brand{
-    font-size: 55px;
+    font-size: 50px;
     font-weight: 600;
     padding-left: 20px;
     color: whitesmoke;
@@ -62,7 +62,7 @@ body{
 }
 
 .navbar-nav .nav-link{
-    font-size: 37px;
+    font-size: 29px;
     font-weight: 600;
     color:whitesmoke;
     justify-content: right;
