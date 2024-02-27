@@ -8,9 +8,6 @@
 #header{
     z-index:1;
     background: linear-gradient(-45deg, #13225d 30%,#d83737,#fdbb2d);
-
-    
-
     background-size: 400% 400%;
     width: 100%;
     height:fit-content !important;
@@ -93,12 +90,14 @@ body{
 
 .testo-titolo{
     padding: 10px 20px;
+    margin-top: 55px;
+    
    }
 
 
  .testo-titolo h1{
 
-font-size: 70px;
+font-size: 65px;
 font-weight: 600;
 color: whitesmoke;
 text-shadow: 2px 2px 4px black; 
@@ -134,14 +133,13 @@ span{
       display: flex;
       justify-content: end;
       
+      
   }
   
   #footer-section p{
       font-size: 14px;
       padding-top: 10px;
-      
       padding-right: 10px;
-      
       color: white;
   }
   #footer-section .icons{
